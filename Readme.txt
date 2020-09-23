@@ -1,0 +1,1 @@
+A Windows XP style statusbar control I used in a program I wrote, now sitting around collecting dust, hope you all like it.
